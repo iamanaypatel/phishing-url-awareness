@@ -1,0 +1,8 @@
+# EWB Phishing URL Awareness Checker
+# -----------------------------------------------------------------------------
+# This project uses ONLY the Python Standard Library (Python 3.10 or later).
+# Built-in modules used: urllib.parse, ipaddress, re, typing, dataclasses, unittest
+#
+# No external third-party dependencies or pip packages are required to run
+# the application or execute the automated test suite.
+# -----------------------------------------------------------------------------
